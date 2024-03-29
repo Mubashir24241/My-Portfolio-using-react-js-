@@ -382,7 +382,7 @@ button:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 25px 5%;
+  /* margin: 25px 5%; */
 }
 
 .projectBox {

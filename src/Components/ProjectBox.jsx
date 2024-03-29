@@ -11,8 +11,8 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
 
     Cashcalculator:
       "This web app  is for helping you to calculate the differnt cash.The project helped me with understanding the working of API.I also learned new CSS properties and tricks.",
-    CashcalculatorGithub: "https://github.com/Mubashir24241/Cash-calculator-using-js",
-    CashcalculatorWebsite: "#",
+      CashcalculatorWebsite: "https://cashcalculator22.netlify.app/",
+      CashcalculatorGithub: "https://github.com/Mubashir24241/cash-calculator22",
 
     ColourPaletteDesc:
       "This website helps you generate random colours that you can use as a palette.The project helped me understand Javascript more deeply using advance techniques",
@@ -20,9 +20,14 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     ColourPaletteWebsite: "https://colourpalettegen.netlify.app",
 
     BackpackDesc:
-      "This webpageis was made for an ecommerce brand showcasing their backpacks.The project taught me how to use custom cursors and arrange text in a much better way",
-    BackpackGithub: "https://github.com/Mubashir24241",
+      "This webpage is was made for an ecommerce brand showcasing their backpacks.The project taught me how to use custom cursors and arrange text in a much better way",
+    BackpackGithub: "https://github.com/Mubashir24241/",
     BackpackWebsite: "https://landing-page-react-sage.vercel.app/",
+
+    Restraunt:
+    "This is a front-end project using html css and javascript, a complete restaurent website where users can find and order their meel according to their mood",
+    RestrauntWebsite: "https://restraunt792.netlify.app/",
+    RestrauntGithub: "https://github.com/Mubashir24241/Restarunt-Website--js-",
   };
 
   return (
